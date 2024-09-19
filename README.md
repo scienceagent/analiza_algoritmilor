@@ -5,7 +5,7 @@
 
 **Group:** TI-231
 
-**Professor:** Coșeru Cătalin 
+**Professor:** Veronica Bagrin / Coșeru Cătalin 
 
 ## Exercises
 - [Lab Assigment 0](lab_1)
