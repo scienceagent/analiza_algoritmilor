@@ -9,8 +9,8 @@
 **Professor:** Veronica Bagrin / Coșeru Cătalin 
 
 ## Exercises
-- [Lab Assigment 0](lab1)
+- [Lab Assigment 1](lab1)
   - ⤷ Analiza algoritmilor (Timpul de execuție al algoritmilor). <br/> 
-- [Lab Assignment 1](src/lab_2/README.md)
-- [Lab Assignment 2](src/lab_3/README.md) 
-- [Lab Assignment 3](src/lab_4/README.md)
+- [Lab Assignment 2](src/lab_2/README.md)
+- [Lab Assignment 3](src/lab_3/README.md) 
+- [Lab Assignment 4](src/lab_4/README.md)
