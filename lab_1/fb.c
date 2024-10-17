@@ -30,7 +30,8 @@ long long fib_d(int n) {
 }
 
 long long fib_dynamic(int n) {
-    for (int i = 0; i < SIZE; i++) fib_table[i] = -1;
+    for (int i = 0; i < SIZE; i++) 
+    fib_table[i] = -1;
     fib_table[0] = 0;
     fib_table[1] = 1;
     return fib_d(n);
