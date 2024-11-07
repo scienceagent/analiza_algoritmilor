@@ -203,9 +203,6 @@ public class GraphAlgorithm {
         System.out.printf("Timpul de executie: %.6f secunde\n", executionTime);
     }
 
-    
-    
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random rand = new Random();
