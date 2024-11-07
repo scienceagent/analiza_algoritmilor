@@ -12,5 +12,7 @@
 - [Lab Assigment 1](lab_1)
   - ⤷ Analiza algoritmilor (Timpul de execuție al algoritmilor). <br/> 
 - [Lab Assignment 2](src/lab_2/README.md)
+  - ⤷ Metoda divide et impera. <br/> 
 - [Lab Assignment 3](src/lab_3/README.md) 
+  - ⤷ Algoritmi greedy. <br/> 
 - [Lab Assignment 4](src/lab_4/README.md)
